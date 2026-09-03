@@ -1,3 +1,3 @@
 def call(){
-  echo "hello dosto"
+  echo "hello dosto this is use in jenkins ci/cd pipeline"
 }
